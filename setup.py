@@ -11,7 +11,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name="couscous",
     version="0.0.1",
-    description="Experimental specificatiin enabler.",
+    description="Experimental specification enabler.",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/sthagen/improved-couscous",

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # pylint: disable=expression-not-assigned,line-too-long
-""""Visit specification textual representation documents, derive policies as well as rules, validate the consistency, and generate configurations."""
+"""Visit specification textual representation documents, derive policies as well as rules, validate the consistency, and generate configurations."""
 import os
 import sys
 

@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Visit specification textual representation documents, derive policies as well as rules, validate the consistency, and generate configurations."""
+"""Actionable information from specification prose.
+
+1. visit specification textual representation documents
+2. derive policies as well as rules, validate the consistency
+3. generate configurations
+
+"""
 import sys
 
 import couscous.couscous as derive

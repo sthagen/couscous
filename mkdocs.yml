@@ -1,5 +1,5 @@
-site_name: Aikasilta
-site_description: "Time bridge (Finnish: aikasilta) - experimental reporting bridge from the Nineties into right now."
+site_name: Couscous
+site_description: Derive actionable rules from specification prose through first grinding grains into small balls to later cook a good meal.
 
 theme:
   name: 'material'
@@ -26,16 +26,16 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://git.sr.ht/~sthagen/aikasilta
+      link: https://git.sr.ht/~sthagen/couscous
     - icon: fontawesome/brands/python
-      link: https://pypi.org/project/aikasilta
+      link: https://pypi.org/project/couscous
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/shage
 
 copyright: Copyright &copy; 2022 Stefan Hagen under the MIT license
 
-repo_name: ~sthagen/leeway
-repo_url: https://git.sr.ht/~sthagen/aikasilta
+repo_name: ~sthagen/couscous
+repo_url: https://git.sr.ht/~sthagen/couscous
 edit_uri: ""
 
 plugins:

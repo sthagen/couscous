@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#! /usr/bin/env python
 """Actionable information from specification prose.
 
 1. visit specification textual representation documents

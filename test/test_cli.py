@@ -1,2 +1,5 @@
-# -*- coding: utf-8 -*-
-# pylint: disable=expression-not-assigned,line-too-long
+from couscous import cli
+
+
+def test_cli():
+    assert cli.main([]) is None

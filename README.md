@@ -16,7 +16,7 @@ User and developer [documentation of couscous](https://codes.dilettant.life/docs
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of couscous](https://todo.sr.ht/~sthagen/couscous).
+Feature requests and bug reports are best entered in the [todos of couscous](https://todo.sr.ht/~sthagen/couscous).
 
 ## Primary Source repository
 

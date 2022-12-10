@@ -3,6 +3,8 @@ site_description: Derive actionable rules from specification prose through first
 
 theme:
   name: 'material'
+  logo: assets/logo.png
+  favicon: images/favicon.ico
   features:
     - navigation.expand
     - toc.integrate

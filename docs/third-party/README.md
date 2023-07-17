@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/couscous/blob/default/sbom/cdx.json) with SHA256 checksum ([ad2cf9bc ...](https://git.sr.ht/~sthagen/couscous/blob/default/sbom/cdx.json.sha256 "sha256:ad2cf9bce13d908ebb4ec8a05a27685692bc5ba751e0421eb05187a3ce124d7f")).
-<!--[[[end]]] (checksum: 8bf15daf1763af45418d35b93deb6e03)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/couscous/blob/default/sbom/cdx.json) with SHA256 checksum ([2f695fa0 ...](https://git.sr.ht/~sthagen/couscous/blob/default/sbom/cdx.json.sha256 "sha256:2f695fa02771d1c495e37d5625ca55f7485519220d0d47ef35eea1990bdcb1b4")).
+<!--[[[end]]] (checksum: 3053ab85314c9e277a38507e237f7602)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -20,16 +20,17 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 ### Indirect Dependencies
 
 <!--[[[fill indirect_dependencies_table()]]]-->
-| Name                                                                                        | Version                                                                  | License     | Author                     | Description (from packaging data)                                    |
-|:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:------------|:---------------------------|:---------------------------------------------------------------------|
-| [attrs](https://www.attrs.org/en/stable/changelog.html)                                     | [23.1.0](https://pypi.org/project/attrs/23.1.0/)                         | MIT License | Hynek Schlawack <hs@ox.cx> | Classes Without Boilerplate                                          |
-| [click](https://palletsprojects.com/p/click/)                                               | [8.1.3](https://pypi.org/project/click/8.1.3/)                           | BSD License | Armin Ronacher             | Composable command line interface toolkit                            |
-| [elementpath](https://github.com/sissaschool/elementpath)                                   | [4.1.2](https://pypi.org/project/elementpath/4.1.2/)                     | MIT License | Davide Brunato             | XPath 1.0/2.0/3.0/3.1 parsers and selectors for ElementTree and lxml |
-| [jsonschema-specifications](https://github.com/python-jsonschema/jsonschema-specifications) | [2023.6.1](https://pypi.org/project/jsonschema-specifications/2023.6.1/) | MIT License | Julian Berman              | The JSON Schema meta-schemas and vocabularies, exposed as a Registry |
-| [pyrsistent](https://github.com/tobgu/pyrsistent/)                                          | [0.19.2](https://pypi.org/project/pyrsistent/0.19.2/)                    | MIT License | Tobias Gustafsson          | Persistent/Functional/Immutable data structures                      |
-| [referencing](https://github.com/python-jsonschema/referencing)                             | [0.29.1](https://pypi.org/project/referencing/0.29.1/)                   | MIT License | Julian Berman              | JSON Referencing + Python                                            |
-| [rpds-py](https://github.com/crate-py/rpds)                                                 | [0.8.10](https://pypi.org/project/rpds-py/0.8.10/)                       | MIT License | Julian Berman              | Python bindings to Rust's persistent data structures (rpds)          |
-<!--[[[end]]] (checksum: 2bb2e36ddc576a5daf41ccb43b5f3a37)-->
+| Name                                                                                        | Version                                                                  | License                            | Author                                                                                | Description (from packaging data)                                    |
+|:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:-----------------------------------|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
+| [attrs](https://www.attrs.org/en/stable/changelog.html)                                     | [23.1.0](https://pypi.org/project/attrs/23.1.0/)                         | MIT License                        | Hynek Schlawack <hs@ox.cx>                                                            | Classes Without Boilerplate                                          |
+| [click](https://palletsprojects.com/p/click/)                                               | [8.1.3](https://pypi.org/project/click/8.1.3/)                           | BSD License                        | Armin Ronacher                                                                        | Composable command line interface toolkit                            |
+| [elementpath](https://github.com/sissaschool/elementpath)                                   | [4.1.2](https://pypi.org/project/elementpath/4.1.2/)                     | MIT License                        | Davide Brunato                                                                        | XPath 1.0/2.0/3.0/3.1 parsers and selectors for ElementTree and lxml |
+| [jsonschema-specifications](https://github.com/python-jsonschema/jsonschema-specifications) | [2023.6.1](https://pypi.org/project/jsonschema-specifications/2023.6.1/) | MIT License                        | Julian Berman                                                                         | The JSON Schema meta-schemas and vocabularies, exposed as a Registry |
+| [pyrsistent](https://github.com/tobgu/pyrsistent/)                                          | [0.19.2](https://pypi.org/project/pyrsistent/0.19.2/)                    | MIT License                        | Tobias Gustafsson                                                                     | Persistent/Functional/Immutable data structures                      |
+| [referencing](https://github.com/python-jsonschema/referencing)                             | [0.29.1](https://pypi.org/project/referencing/0.29.1/)                   | MIT License                        | Julian Berman                                                                         | JSON Referencing + Python                                            |
+| [rpds-py](https://github.com/crate-py/rpds)                                                 | [0.8.10](https://pypi.org/project/rpds-py/0.8.10/)                       | MIT License                        | Julian Berman                                                                         | Python bindings to Rust's persistent data structures (rpds)          |
+| [typing_extensions](https://github.com/python/typing_extensions)                            | [4.4.0](https://pypi.org/project/typing_extensions/4.4.0/)               | Python Software Foundation License | "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com> | Backported and Experimental Type Hints for Python 3.7+               |
+<!--[[[end]]] (checksum: 7bf2aa7ef8d6f2d5dea4ba2754f856a3)-->
 
 ## Dependency Tree(s)
 

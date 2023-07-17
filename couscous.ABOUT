@@ -1,0 +1,14 @@
+name: couscous
+description: Derive actionable rules from specification prose through first grinding grains into small balls to later cook a good meal.
+license_spdx: MIT
+version: 2022.11.28
+spec_version: 1.0
+home_url: https://git.sr.ht/~sthagen/couscous
+news_url: https://libraries.io/pypi/couscous/versions.atom
+date: 2022-11-28
+about_resource: ./
+libraries_io_url: https://libraries.io/pypi/couscous?number=2022.11.28
+vcs_tool: git
+vcs_repository: https://git.sr.ht/~sthagen/couscous
+vcs_branch: default
+

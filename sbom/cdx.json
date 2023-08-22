@@ -1,0 +1,104 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:8ee1d93e-190f-4a41-ae1f-266223a2dbd4",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2023-08-22T18:37:53.801111+00:00",
+    "tools": [
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-bom",
+        "version": "3.11.2"
+      },
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-python-lib",
+        "version": "3.1.5",
+        "externalReferences": [
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/actions",
+            "type": "build-system"
+          },
+          {
+            "url": "https://pypi.org/project/cyclonedx-python-lib/",
+            "type": "distribution"
+          },
+          {
+            "url": "https://cyclonedx.github.io/cyclonedx-python-lib/",
+            "type": "documentation"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/issues",
+            "type": "issue-tracker"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/LICENSE",
+            "type": "license"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/CHANGELOG.md",
+            "type": "release-notes"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib",
+            "type": "vcs"
+          },
+          {
+            "url": "https://cyclonedx.org",
+            "type": "website"
+          }
+        ]
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "bbbac4bf-f615-4eb1-9ddd-eee7db6483fe",
+      "name": "jsonschema",
+      "version": "4.19.0",
+      "purl": "pkg:pypi/jsonschema@4.19.0"
+    },
+    {
+      "type": "library",
+      "bom-ref": "dd965d78-bdd3-494f-86fd-3ba20bac46a9",
+      "name": "referencing",
+      "version": "0.30.2",
+      "purl": "pkg:pypi/referencing@0.30.2"
+    },
+    {
+      "type": "library",
+      "bom-ref": "02fb5f25-fa96-479f-91a7-e49745152caf",
+      "name": "typer",
+      "version": "0.9.0",
+      "purl": "pkg:pypi/typer@0.9.0"
+    },
+    {
+      "type": "library",
+      "bom-ref": "1d18e14f-1389-47c4-a5c8-1871d684bdb7",
+      "name": "xmlschema",
+      "version": "2.4.0",
+      "purl": "pkg:pypi/xmlschema@2.4.0"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "bbbac4bf-f615-4eb1-9ddd-eee7db6483fe",
+      "dependsOn": []
+    },
+    {
+      "ref": "dd965d78-bdd3-494f-86fd-3ba20bac46a9",
+      "dependsOn": []
+    },
+    {
+      "ref": "02fb5f25-fa96-479f-91a7-e49745152caf",
+      "dependsOn": []
+    },
+    {
+      "ref": "1d18e14f-1389-47c4-a5c8-1871d684bdb7",
+      "dependsOn": []
+    }
+  ]
+}

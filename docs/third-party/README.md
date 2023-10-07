@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([d50fa23d ...](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json.sha256 "sha256:d50fa23d4abc6985c0142f4db39764a4036901dd398d5fc94a7014757c1b7a04")).
-<!--[[[end]]] (checksum: e2fa3ee95b406fe7d739bd877f55119e)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([4d8bee21 ...](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json.sha256 "sha256:4d8bee213225082b6b65c1292c70a8439eee4a620a75e5a8f09df43f2441b5ce")).
+<!--[[[end]]] (checksum: 57ba2ad511da3277a727ee614a37d1bb)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -24,12 +24,12 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | Name                                                                                        | Version                                                                  | License                            | Author                                                                                | Description (from packaging data)                                    |
 |:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:-----------------------------------|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
 | [attrs](https://www.attrs.org/en/stable/changelog.html)                                     | [23.1.0](https://pypi.org/project/attrs/23.1.0/)                         | MIT License                        | Hynek Schlawack <hs@ox.cx>                                                            | Classes Without Boilerplate                                          |
-| [click](https://palletsprojects.com/p/click/)                                               | [8.1.5](https://pypi.org/project/click/8.1.5/)                           | BSD License                        | UNKNOWN                                                                               | Composable command line interface toolkit                            |
+| [click](https://palletsprojects.com/p/click/)                                               | [8.1.5](https://pypi.org/project/click/8.1.5/)                           | BSD License                        | Pallets <contact@palletsprojects.com>                                                 | Composable command line interface toolkit                            |
 | [elementpath](https://github.com/sissaschool/elementpath)                                   | [4.1.5](https://pypi.org/project/elementpath/4.1.5/)                     | MIT License                        | Davide Brunato                                                                        | XPath 1.0/2.0/3.0/3.1 parsers and selectors for ElementTree and lxml |
 | [jsonschema-specifications](https://github.com/python-jsonschema/jsonschema-specifications) | [2023.6.1](https://pypi.org/project/jsonschema-specifications/2023.6.1/) | MIT License                        | Julian Berman                                                                         | The JSON Schema meta-schemas and vocabularies, exposed as a Registry |
 | [rpds-py](https://github.com/crate-py/rpds)                                                 | [0.8.11](https://pypi.org/project/rpds-py/0.8.11/)                       | MIT License                        | Julian Berman                                                                         | Python bindings to Rust's persistent data structures (rpds)          |
 | [typing_extensions](https://github.com/python/typing_extensions)                            | [4.7.1](https://pypi.org/project/typing_extensions/4.7.1/)               | Python Software Foundation License | "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com> | Backported and Experimental Type Hints for Python 3.7+               |
-<!--[[[end]]] (checksum: 8902d898540b81c6d4c71f2a8424e179)-->
+<!--[[[end]]] (checksum: 0c89d25e13d8200fa2c6040eead5f309)-->
 
 ## Dependency Tree(s)
 

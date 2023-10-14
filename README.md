@@ -3,7 +3,8 @@
 Derive actionable rules from specification prose through first grinding grains into small balls to later cook a good meal.
 
 [License: MIT](https://github.com/sthagen/couscous/blob/default/LICENSE) | 
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/couscous/tree/default/item/COUNTRY-OF-ORIGIN)
+[Country of origin: Switzerland](https://git.sr.ht/~sthagen/couscous/tree/default/item/COUNTRY-OF-ORIGIN) | 
+[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/couscous/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 
 [![version](https://img.shields.io/pypi/v/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
 [![downloads](https://static.pepy.tech/badge/couscous/month)](https://pepy.tech/project/couscous)

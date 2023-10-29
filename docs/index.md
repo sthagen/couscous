@@ -2,15 +2,15 @@
 
 Derive actionable rules from specification prose through first grinding grains into small balls to later cook a good meal.
 
-[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/couscousNAME/tree/default/item/LICENSE)
-[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/couscousNAME/tree/default/item/COUNTRY-OF-ORIGIN)
-[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/couscousNAME/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/LICENSE)
+[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-[![Version](https://img.shields.io/pypi/v/couscousNAME.svg?style=flat)](https://pypi.python.org/pypi/couscousNAME/)
-[![Downloads](https://static.pepy.tech/badge/couscousNAME/month)](https://pepy.tech/project/couscousNAME)
-[![Supported Versions](https://img.shields.io/pypi/pyversions/couscousNAME.svg?style=flat)](https://pypi.python.org/pypi/couscousNAME/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/couscousNAME.svg?style=flat)](https://git.sr.ht/~sthagen/couscousNAME/log)
+[![Version](https://img.shields.io/pypi/v/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
+[![Downloads](https://static.pepy.tech/badge/couscous/month)](https://pepy.tech/project/couscous)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/couscous.svg?style=flat)](https://git.sr.ht/~sthagen/couscous/log)
 
 ## Bug Tracker
 

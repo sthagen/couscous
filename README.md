@@ -2,16 +2,15 @@
 
 Derive actionable rules from specification prose through first grinding grains into small balls to later cook a good meal.
 
-[License: MIT](https://github.com/sthagen/couscous/blob/default/LICENSE) | 
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/couscous/tree/default/item/COUNTRY-OF-ORIGIN) | 
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/couscous/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![License](docs/badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/LICENSE)
+[![Country of Origin](docs/badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/docs/third-party/README.md)
 
-[![version](https://img.shields.io/pypi/v/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
-[![downloads](https://static.pepy.tech/badge/couscous/month)](https://pepy.tech/project/couscous)
-[![wheel](https://img.shields.io/pypi/wheel/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/couscous.svg?style=flat)](https://git.sr.ht/~sthagen/couscous/log)
+[![Version](https://img.shields.io/pypi/v/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
+[![Downloads](https://static.pepy.tech/badge/couscous/month)](https://pepy.tech/project/couscous)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/couscous.svg?style=flat)](https://git.sr.ht/~sthagen/couscous/log)
 
 ## Documentation
 

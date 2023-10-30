@@ -15,3 +15,17 @@ mathjax-support = true
 site-url = "/docs/couscous"
 git-repository-url = "https://git.sr.ht/~sthagen/couscous"
 
+[output.html]
+default-theme = "coal"
+git-repository-url = "https://git.sr.ht/~sthagen/couscous"
+git-repository-icon = "fa-code-fork"
+mathjax-support = true
+no-section-label = true
+preferred-dark-theme = "navy"
+site-url = "/docs/couscous"
+
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = false

@@ -10,7 +10,7 @@ Derive actionable rules from specification prose through first grinding grains i
 [![Version](https://img.shields.io/pypi/v/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
 [![Downloads](https://static.pepy.tech/badge/couscous/month)](https://pepy.tech/project/couscous)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/couscous.svg?style=flat)](https://git.sr.ht/~sthagen/couscous/log)
+[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/couscous/log)
 
 ## Documentation
 

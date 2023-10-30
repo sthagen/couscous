@@ -11,11 +11,6 @@ title = "Couscous"
 builddir = "book"
 
 [output.html]
-mathjax-support = true
-site-url = "/docs/couscous"
-git-repository-url = "https://git.sr.ht/~sthagen/couscous"
-
-[output.html]
 default-theme = "coal"
 git-repository-url = "https://git.sr.ht/~sthagen/couscous"
 git-repository-icon = "fa-code-fork"

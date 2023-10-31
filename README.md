@@ -7,7 +7,7 @@ Derive actionable rules from specification prose through first grinding grains i
 [![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/couscous/tree/default/item/docs/third-party/README.md)
 
-[![Version](https://img.shields.io/pypi/v/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
+[![Version](docs/badges/latest-release.svg)](https://pypi.python.org/pypi/couscous/)
 [![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/couscous)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/couscous.svg?style=flat)](https://pypi.python.org/pypi/couscous/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/couscous/log)

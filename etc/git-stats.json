@@ -1,25 +1,43 @@
 {
   "total": {
-    "commits": 1265,
-    "first_committed_at": "2023-11-25T20:49:52+00:00",
-    "last_committed_at": "2021-03-01T20:59:43+00:00",
-    "month_span_day_count": 998,
-    "year_span": 2.734246575342466,
-    "commits_per_year": 462,
-    "insertions_per_year": 8354.769539078156,
-    "deletions_per_year": 1845.8466933867735,
-    "lines_per_year": 10200.61623246493,
-    "files_per_year": 652.4649298597194,
-    "insertions_count": 22844,
-    "deletions_count": 5047,
-    "lines_count": 27891,
-    "files_count": 1784,
-    "insertions_avg": 18.058498023715416,
-    "deletions_avg": 3.989723320158103,
-    "lines_avg": 22.048221343873518,
-    "files_avg": 1.4102766798418973
+    "commits": 1269,
+    "first_committed_at": "2021-03-01T20:59:43+00:00",
+    "last_committed_at": "2023-11-25T22:01:44+00:00",
+    "month_span_day_count": 999,
+    "year_span": 2.736986301369863,
+    "commits_per_year": 463,
+    "insertions_per_year": 8358.828828828828,
+    "deletions_per_year": 1853.8638638638638,
+    "lines_per_year": 10212.692692692692,
+    "files_per_year": 653.2732732732733,
+    "insertions_count": 22878,
+    "deletions_count": 5074,
+    "lines_count": 27952,
+    "files_count": 1788,
+    "insertions_avg": 18.02836879432624,
+    "deletions_avg": 3.9984239558707646,
+    "lines_avg": 22.026792750197007,
+    "files_avg": 1.408983451536643
   },
   "commit_stats": {
+    "2023-11-25T22:01:44+00:00": {
+      "insertions": 3,
+      "deletions": 2,
+      "lines": 5,
+      "files": 1
+    },
+    "2023-11-25T21:19:22+00:00": {
+      "insertions": 22,
+      "deletions": 16,
+      "lines": 38,
+      "files": 1
+    },
+    "2023-11-25T21:19:21+00:00": {
+      "insertions": 9,
+      "deletions": 9,
+      "lines": 18,
+      "files": 2
+    },
     "2023-11-25T20:49:52+00:00": {
       "insertions": 14370,
       "deletions": 0,
@@ -14366,11 +14384,11 @@
       "files": 4
     },
     "2023-11-25": {
-      "commits": 4,
-      "insertions": 14448,
-      "deletions": 2,
-      "lines": 14450,
-      "files": 4
+      "commits": 7,
+      "insertions": 14482,
+      "deletions": 29,
+      "lines": 14511,
+      "files": 8
     }
   }
 }

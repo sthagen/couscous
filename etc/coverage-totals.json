@@ -1,7 +1,7 @@
 {
   "couscous": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:14:30.499104",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:51:07 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 13,
@@ -13,6 +13,22 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "couscous/__init__.py",
+      "couscous/cli.py",
+      "couscous/couscous.py"
+    ],
+    "blake3": "e0c2d6a83fb90bcce7d4b3c44649c3a599718eefe337178417d53e09f30285c5",
+    "blake2": "423dc43e621f6f4e5c02e95f6d1a940df7b51c6f77551bfa0bfd2fbd288e371f09e62cce80d3bbc7ff035e1db1f948278336fbab4ef28f2f3f7786df42e8767d",
+    "sha512": "8424272a1b9541fe2b3775e8f9140525d9f911d91deb84008bc997dc447f4e6cbc6343bbdcc7d1d9fa1a4ba835e5c28098a41fbe3cb868fd3a316dcf29b9ac65",
+    "sha384": "4fea334081ac294fe86b2fa14aea42657ba807388a15bef35af030bd4e8dc507518a2347163e8e06cbd95d9d797b9856",
+    "sha256": "05ca4d47576f5a4c67c8a7a28e51215fdcadd17e123e0c6a9a85e774ee20a631",
+    "sha1": "c9fb4b60e48c87a0cd5fe91d1a30edb5df74fa1c",
+    "md5": "ec5784af99ff307a755ef4b0e13b880e",
+    "python_version": "3.10.12",
+    "entropy": 4.946955
   }
 }

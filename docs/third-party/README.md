@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([a6793fc1 ...](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json.sha256 "sha256:a6793fc1c7b8288078eecb7b9b91e96b83cbee862e0191312d8c491f0e13264a")).
-<!--[[[end]]] (checksum: cf933a926d2dd1d750c1421167e2ebcb)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([4a973116 ...](https://git.sr.ht/~sthagen/couscous/blob/default/etc/sbom/cdx.json.sha256 "sha256:4a9731165d1a9146346bd387d63d4e78fdce803253d96d070fefc6ef17142d20")).
+<!--[[[end]]] (checksum: a3b7f488f7e6e15b39d51ba57bebd1f2)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -13,10 +13,10 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | Name                                                            | Version                                                | License     | Author            | Description (from packaging data)                                  |
 |:----------------------------------------------------------------|:-------------------------------------------------------|:------------|:------------------|:-------------------------------------------------------------------|
 | [jsonschema](https://github.com/python-jsonschema/jsonschema)   | [4.20.0](https://pypi.org/project/jsonschema/4.20.0/)  | MIT License | Julian Berman     | An implementation of JSON Schema validation for Python             |
-| [referencing](https://github.com/python-jsonschema/referencing) | [0.31.1](https://pypi.org/project/referencing/0.31.1/) | MIT License | Julian Berman     | JSON Referencing + Python                                          |
+| [referencing](https://github.com/python-jsonschema/referencing) | [0.32.0](https://pypi.org/project/referencing/0.32.0/) | MIT License | Julian Berman     | JSON Referencing + Python                                          |
 | [typer](https://github.com/tiangolo/typer)                      | [0.9.0](https://pypi.org/project/typer/0.9.0/)         | MIT License | Sebastián Ramírez | Typer, build great CLIs. Easy to code. Based on Python type hints. |
 | [xmlschema](https://github.com/sissaschool/xmlschema)           | [2.5.0](https://pypi.org/project/xmlschema/2.5.0/)     | MIT License | Davide Brunato    | An XML Schema validator and decoder                                |
-<!--[[[end]]] (checksum: 8bcef03ed90780326f4845108059fd1d)-->
+<!--[[[end]]] (checksum: 1cc29dcda4def66232379ad5cc3947be)-->
 
 ### Indirect Dependencies
 
@@ -48,10 +48,10 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 jsonschema==4.20.0
 ├── attrs [required: >=22.2.0, installed: 23.1.0]
 ├── jsonschema-specifications [required: >=2023.03.6, installed: 2023.6.1]
-│   └── referencing [required: >=0.28.0, installed: 0.31.1]
+│   └── referencing [required: >=0.28.0, installed: 0.32.0]
 │       ├── attrs [required: >=22.2.0, installed: 23.1.0]
 │       └── rpds-py [required: >=0.7.0, installed: 0.8.11]
-├── referencing [required: >=0.28.4, installed: 0.31.1]
+├── referencing [required: >=0.28.4, installed: 0.32.0]
 │   ├── attrs [required: >=22.2.0, installed: 23.1.0]
 │   └── rpds-py [required: >=0.7.0, installed: 0.8.11]
 └── rpds-py [required: >=0.7.1, installed: 0.8.11]
@@ -61,4 +61,4 @@ typer==0.9.0
 xmlschema==2.5.0
 └── elementpath [required: >=4.1.5,<5.0.0, installed: 4.1.5]
 ````
-<!--[[[end]]] (checksum: eea750bb3e19fadb5f99271d53ea63cd)-->
+<!--[[[end]]] (checksum: 70d3ef7440b290b95e12c0f01ef58cc8)-->

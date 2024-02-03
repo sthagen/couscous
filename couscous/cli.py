@@ -5,6 +5,7 @@
 3. generate configurations
 
 """
+
 import sys
 from typing import no_type_check
 

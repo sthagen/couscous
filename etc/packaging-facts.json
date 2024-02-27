@@ -21,6 +21,7 @@
       "last_month": -1,
       "last_week": -1
     },
+    "dynamic": null,
     "home_page": "https://git.sr.ht/~sthagen/couscous",
     "keywords": "actionable,development,enhance,specification",
     "license": "",
@@ -37,6 +38,7 @@
       "Source Code": "https://git.sr.ht/~sthagen/couscous",
       "Test Coverage": "https://codes.dilettant.life/coverage/couscous/"
     },
+    "provides_extra": null,
     "release_url": "https://pypi.org/project/couscous/2022.7.24/",
     "requires_dist": [
       "jsonschema (>=4.7.2)",
